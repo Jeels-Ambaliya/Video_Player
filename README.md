@@ -17,7 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Full Demmo
 
-<img src = "https://user-images.githubusercontent.com/123535768/220601351-040efaa3-e989-4f66-bea1-0166c2a28576.gif" width = "200px">
+<img src = "https://user-images.githubusercontent.com/123535768/220607220-07a246f6-ff6e-4de3-9c7e-a6b441f49be8.gif" width = "200px">
+
 
 
 
